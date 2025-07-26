@@ -35,7 +35,7 @@ An interactive Excel-based dashboard designed to provide a complete overview of 
 - Suitable for retail business reporting or student projects
 
 ## 📷 Screenshots
-
+https://github.com/sharmaasumit/Multi-channel-retail-dashboard/blob/main/2025-07-26%20(2).png
 
 
 ## 📁 Files
